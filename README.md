@@ -7,7 +7,7 @@
 
 # Features
 
-- Add tasks: Create new tasks using the input field.
+- Add tasks: Create new tasks using the input field, add them with the add button or with enter.
 
 - Complete tasks: Mark tasks as completed using checkboxes.
 
