@@ -218,6 +218,8 @@ h1 {
     flex: 1;
     text-align: left;
     transition: 0.9s ease;
+    overflow-wrap: anywhere;
+    min-width: 0;
 }
 
 
